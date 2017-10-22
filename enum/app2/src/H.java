@@ -1,0 +1,8 @@
+enum H
+{
+	;
+	void test()
+	{
+	}
+
+}

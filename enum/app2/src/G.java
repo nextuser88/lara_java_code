@@ -1,0 +1,6 @@
+enum G
+{
+	void test()
+	{
+	}
+}

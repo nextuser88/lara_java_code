@@ -1,0 +1,3 @@
+s1 = insert into employee values(7,'vijay','b',33)
+s2 = insert into employee values(8,'Ajay','b',34)
+s3 = insert into employee values(9,'sanjay','b',35)

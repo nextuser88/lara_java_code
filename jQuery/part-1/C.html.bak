@@ -1,0 +1,30 @@
+<!DOCTYPE >
+<HTML>
+ <HEAD>
+  <script src = "jquery.js"></script>
+  <script>
+  $(document).ready(function(){
+		alert("file loaded into browser memory");
+		$("#b1").click(
+		function(){
+			alert("button1 clicked");
+			}
+		);
+		$("#b2").click(
+		function(){
+			alert("button2 clicked");
+			}
+		);
+	}
+  );
+  </script>
+ </HEAD>
+
+ <BODY>
+Hello to all</br>
+<input type = "button" id='b1' value = 'Button1'></br>
+<input type = "button" id='b2' value = 'Button2'/></br>
+
+  
+ </BODY>
+</HTML>

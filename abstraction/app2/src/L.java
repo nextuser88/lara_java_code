@@ -1,0 +1,11 @@
+interface L		  
+{
+	{
+	
+	}
+	static
+	{
+	
+	}
+	
+}
